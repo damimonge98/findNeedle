@@ -17,4 +17,4 @@ function findNeedle (haystack, needle) {
     
 }
 
-findNeedle ("gaga-stupidlove", "pink")
+findNeedle ("react-redux", "redux")
